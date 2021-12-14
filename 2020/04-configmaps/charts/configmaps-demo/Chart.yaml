@@ -1,0 +1,10 @@
+name: configmaps-demo
+version: 0.0.1
+description: Configmap usage example
+keywords:
+- demo
+- configmap
+home: https://github.com/flant/examples.git
+maintainers:
+- name: Mikhail Nosov
+  email: drdeimosnn@gmail.com
